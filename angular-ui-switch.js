@@ -1,6 +1,6 @@
 angular.module('uiSwitch', [])
 
-.directive('switch', function(){
+.directive('uiSwitch', function(){
   return {
     restrict: 'AE'
   , replace: true
